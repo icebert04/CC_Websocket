@@ -1,5 +1,5 @@
 {
-  "name": "react-cryptocompare-stream",
+  "name": "cc_websocket",
   "version": "0.1.0",
   "description": "react bootstrap table for streaming live cryptocurrency data.",
   "keywords": [
